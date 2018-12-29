@@ -1,812 +1,813 @@
-[
-	
-	{
+ [
+        
+	 {
             "name": "eggshells",
             "name_de": "Eierschalen",
-            "BIN_Colour": "eierschalen",
-            "phone": "Please use the eierschalen bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/EggShell.jpg"
         },
         {
             "name": "garden waste",
             "name_de": "Gartenabfälle",
-            "BIN_Colour": "gartenabfälle",
-            "phone": "Please use the gartenabfälle bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/garden%20Waste.jpg"
         },
         {
             "name": "vegetable scraps",
             "name_de": "Gemüsereste",
-            "BIN_Colour": "gemüsereste",
-            "phone": "Please use the gemüsereste bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Vegetable%20Scrap.jpg"
         },
         {
             "name": "hair",
             "name_de": "Haare",
-            "BIN_Colour": "haare",
-            "phone": "Please use the haare bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/hair%20waste2.jpg"
         },
         {
             "name": "coffee grounds",
             "name_de": "Kaffeesatz",
-            "BIN_Colour": "kaffeesatz",
-            "phone": "Please use the kaffeesatz bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/coffe%20ground.jpg"
         },
         {
             "name": "potato skins",
             "name_de": "Kartoffelschalen",
-            "BIN_Colour": "kartoffelschalen",
-            "phone": "Please use the kartoffelschalen bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Potato%20Skin.jpg"
         },
         {
             "name": "kitchen waste",
             "name_de": "Küchenabfälle",
-            "BIN_Colour": "küchenabfälle",
-            "phone": "Please use the küchenabfälle bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Kitchen%20Waste.jpg"
         },
         {
             "name": "nutshells",
             "name_de": "Nussschalen",
-            "BIN_Colour": "nussschalen",
-            "phone": "Please use the nussschalen bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/nutshell.jpg"
         },
         {
             "name": "fruit cups",
             "name_de": "Obstschalen",
-            "BIN_Colour": "obstschalen",
-            "phone": "Please use the obstschalen bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Fruit%20cups.jpg"
         },
         {
             "name": "tea sediment",
             "name_de": "Teesatz",
-            "BIN_Colour": "teesatz",
-            "phone": "Please use the teesatz bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/tea%20sediment.jpg"
         },
         {
             "name": "cellulose wipes",
             "name_de": "Zellstofftücher",
-            "BIN_Colour": "zellstofftücher",
-            "phone": "Please use the zellstofftücher bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/cellulose%20wipes.jpg"
         },
         {
             "name": "houseplants",
             "name_de": "Zimmerpflanzen",
-            "BIN_Colour": "zimmerpflanzen",
-            "phone": "Please use the zimmerpflanzen bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/houseplants.jpg"
         },
-	
-	
-	
-	{
+	 
+	 
+	 
+	 
+	 {
             "name": "Sanitary Articles",
             "name_de": "Hygieneartikel",
-            "BIN_Colour": "hygieneartikel",
-            "phone": "Please use the hygieneartikel bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Tampons.jpg"
         },
         {
             "name": "Sanitary Napkins",
             "name_de": "Damenbinden",
-            "BIN_Colour": "damenbinden",
-            "phone": "Please use the damenbinden bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Sanitary%20Articles.jpg"
         },
         {
             "name": "Tampons",
             "name_de": "Tampons",
-            "BIN_Colour": "tampons",
-            "phone": "Please use the tampons bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Tampons.jpg"
         },
         {
             "name": "Diapers",
             "name_de": "Windeln",
-            "BIN_Colour": "windeln",
-            "phone": "Please use the windeln bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Diapers.jpg"
         },
         {
             "name": "Cigarettes",
             "name_de": "Zigarette ",
-            "BIN_Colour": "zigarette ",
-            "phone": "Please use the zigarette  bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Cigarette%20Butts.JPG"
         },
         {
             "name": "Cigarette Butts",
             "name_de": "Zigarettenkippen",
-            "BIN_Colour": "zigarettenkippen",
-            "phone": "Please use the zigarettenkippen bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Cigarette%20Butts.JPG"
         },
         {
             "name": "Ashes",
             "name_de": "Asche",
-            "BIN_Colour": "asche",
-            "phone": "Please use the asche bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Ashes.JPG"
         },
         {
             "name": "Coated Paper",
             "name_de": "Kunstdruckpapier",
-            "BIN_Colour": "kunstdruckpapier",
-            "phone": "Please use the kunstdruckpapier bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Coated%20Paper.jpg"
         },
         {
             "name": "Photos",
             "name_de": "Fotos",
-            "BIN_Colour": "fotos",
-            "phone": "Please use the fotos bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Photos.jpg"
         },
         {
             "name": "Sandwich Paper",
             "name_de": "Sandwichpapier",
-            "BIN_Colour": "sandwichpapier",
-            "phone": "Please use the sandwichpapier bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Sandwich%20Paper.jpg"
         },
         {
             "name": "Wallpaper",
             "name_de": "Tapeten",
-            "BIN_Colour": "tapeten",
-            "phone": "Please use the tapeten bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Confused%20wastes/wallpaper.JPG"
         },
         {
             "name": "Hard Glass Products",
             "name_de": "Glas Produckt",
-            "BIN_Colour": "glas produckt",
-            "phone": "Please use the glas produckt bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Lead%20Glass.jpg"
         },
         {
             "name": "Lead Glass",
             "name_de": "Bleiglas",
-            "BIN_Colour": "bleiglas",
-            "phone": "Please use the bleiglas bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Lead%20Glass.jpg"
         },
         {
             "name": "Sweepings",
             "name_de": "Kehricht ",
-            "BIN_Colour": "kehricht ",
-            "phone": "Please use the kehricht  bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Lead%20Glass.jpg"
         },
         {
             "name": "Pet Litter",
             "name_de": "Haustierstreu",
-            "BIN_Colour": "haustierstreu",
-            "phone": "Please use the haustierstreu bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Pet%20Litter.png"
         },
         {
             "name": "Porcelain and Ceramic  Product",
             "name_de": "Porzellanbruch und Keramik Produkt",
-            "BIN_Colour": "porzellanbruch und keramik produkt",
-            "phone": "Please use the porzellanbruch und keramik produkt bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Porcelain%20and%20Ceramic%20Fracture.jpg"
         },
         {
             "name": "Pots",
             "name_de": "Töpfe",
-            "BIN_Colour": "töpfe",
-            "phone": "Please use the töpfe bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Pots%20Porcelain.JPG"
         },
         {
             "name": "Bricks",
             "name_de": "Ziegel",
-            "BIN_Colour": "ziegel",
-            "phone": "Please use the ziegel bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/brick.jpg"
         },
         {
             "name": "Floor and Roof tiles",
             "name_de": "Bodenfliesen und Dachziegel",
-            "BIN_Colour": "bodenfliesen und dachziegel",
-            "phone": "Please use the bodenfliesen und dachziegel bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/rooftiles.jpg"
         },
         {
             "name": "Whiteware",
             "name_de": "Weiße Kochtöpfe",
-            "BIN_Colour": "weiße kochtöpfe",
-            "phone": "Please use the weiße kochtöpfe bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Cookware",
             "name_de": "Kochtöpfe",
-            "BIN_Colour": "kochtöpfe",
-            "phone": "Please use the kochtöpfe bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Tableware",
             "name_de": "Tischgeschirr",
-            "BIN_Colour": "tischgeschirr",
-            "phone": "Please use the tischgeschirr bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Small Toys",
             "name_de": "Kleines Spielzeug",
-            "BIN_Colour": "kleines spielzeug",
-            "phone": "Please use the kleines spielzeug bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Confused%20wastes/Small%20Toys.JPG"
         },
         {
             "name": "Dry Colors",
             "name_de": "Farben (trocken)",
-            "BIN_Colour": "farben (trocken)",
-            "phone": "Please use the farben (trocken) bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Dry%20Colors.jpg"
         },
         {
             "name": "Dust Bags",
             "name_de": "Staubsaugerbeutel",
-            "BIN_Colour": "staubsaugerbeutel",
-            "phone": "Please use the staubsaugerbeutel bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Dust%20Bags.jpg"
         },
         {
             "name": "Soiled Packaging",
             "name_de": "Verschmutzte Verpackung",
-            "BIN_Colour": "verschmutzte verpackung",
-            "phone": "Please use the verschmutzte verpackung bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Soiled%20Pizza%20Box.JPG"
         },
         {
             "name": "Soiled Pizza Box",
             "name_de": "Verschmutzte Pizzakartons",
-            "BIN_Colour": "verschmutzte pizzakartons",
-            "phone": "Please use the verschmutzte pizzakartons bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Soiled%20Pizza%20Box.JPG"
         },
         {
             "name": "Soiled Food Packaging",
             "name_de": "Verschmutzte Esssen Verpackung",
-            "BIN_Colour": "verschmutzte esssen verpackung",
-            "phone": "Please use the verschmutzte esssen verpackung bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Confused%20wastes/Soiled%20Sandwish%20Wrapper.JPG"
         },
         {
             "name": "Soiled Napkins and Tissues",
             "name_de": "Verschmutzte Servietten und Gewebe",
-            "BIN_Colour": "verschmutzte servietten und gewebe",
-            "phone": "Please use the verschmutzte servietten und gewebe bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Soiled%20Pizza%20Box.JPG"
         },
         {
             "name": "Floppy Disk",
             "name_de": "Disketten",
-            "BIN_Colour": "disketten",
-            "phone": "Please use the disketten bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Floppy%20Disk.jpg"
         },
         {
             "name": "Light Bulb",
             "name_de": "Glühlampe ",
-            "BIN_Colour": "glühlampe ",
-            "phone": "Please use the glühlampe  bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Light%20Bulb.jpg"
         },
         {
             "name": "Meat bone leftover",
             "name_de": "Fleischreste",
-            "BIN_Colour": "fleischreste",
-            "phone": "Please use the fleischreste bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Meat%20and%20Fish%20Leftovers.jpg"
         },
         {
             "name": "Fish bone leftover",
             "name_de": "Fishreste",
-            "BIN_Colour": "fishreste",
-            "phone": "Please use the fishreste bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Meat%20and%20Fish%20Leftovers.jpg"
         },
         {
             "name": "Old Medicines",
             "name_de": "Altmedikamente",
-            "BIN_Colour": "altmedikamente",
-            "phone": "Please use the altmedikamente bin to dispose this waste!",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Medicines.jpg"
         },
         {
             "name": "Cardboard folders",
             "name_de": "Aktenordner aus Pappe/Wellpappe",
-            "BIN_Colour": "aktenordner aus pappe/wellpappe",
-            "phone": "Please use the aktenordner aus pappe/wellpappe bin to dispose this waste!",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "brochures",
             "name_de": "Broschüren",
-            "BIN_Colour": "broschüren",
-            "phone": "Please use the broschüren bin to dispose this waste!",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "books",
             "name_de": "Bücher",
-            "BIN_Colour": "bücher",
-            "phone": "Please use the bücher bin to dispose this waste!",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/books(1).jpg"
         },
         {
             "name": "paper",
             "name_de": "Büropapier",
-            "BIN_Colour": "büropapier",
-            "phone": "Please use the büropapier bin to dispose this waste!",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Paper.JPG"
         },
         {
             "name": "copy paper",
             "name_de": "Fotokopierpapier",
-            "BIN_Colour": "fotokopierpapier",
-            "phone": "Please use the fotokopierpapier bin to dispose this waste!",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Paper.JPG"
         },
         {
             "name": "carton",
             "name_de": "Kartons",
-            "BIN_Colour": "kartons",
-            "phone": "Please use the kartons bin to dispose this waste!",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Carton.JPG"
         },
         {
             "name": "leaflets",
             "name_de": "Prospekte",
-            "BIN_Colour": "prospekte",
-            "phone": "Please use the prospekte bin to dispose this waste!",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "paper bags (clean)",
             "name_de": "saubere Papiertüten",
-            "BIN_Colour": "saubere papiertüten",
-            "phone": "Please use the saubere papiertüten bin to dispose this waste!",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/paper%20bags.jpg"
         },
         {
             "name": "newspapers",
             "name_de": "Zeitungen",
-            "BIN_Colour": "zeitungen",
-            "phone": "Please use the zeitungen bin to dispose this waste!",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/newspapers.jpeg"
         },
         {
             "name": "journals",
             "name_de": "Zeitschriften",
-            "BIN_Colour": "zeitschriften",
-            "phone": "Please use the zeitschriften bin to dispose this waste!",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/journals.jpg"
         },
         {
             "name": "packaging made of paper",
             "name_de": "Verpackungen aus Papier",
-            "BIN_Colour": "verpackungen aus papier",
-            "phone": "Please use the verpackungen aus papier bin to dispose this waste!",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/paper%20bags.jpg"
         },
         {
             "name": "Empty glass bottles of wine,champagne,juice, ketchup",
             "name_de": "Wein-, Sekt-, Saft- und Ketchup-Flaschen",
-            "BIN_Colour": "wein-, sekt-, saft- und ketchup-flaschen",
-            "phone": "Please use the wein-, sekt-, saft- und ketchup-flaschen bin to dispose this waste!",
+            "bin_colour": "brown",
+            "phone": "Please use the brown bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Glass%20Bottles.JPG"
         },
         {
             "name": "other glass packing",
             "name_de": "andere Glasverpackungen",
-            "BIN_Colour": "andere glasverpackungen",
-            "phone": "Please use the andere glasverpackungen bin to dispose this waste!",
+            "bin_colour": "brown",
+            "phone": "Please use the brown bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Glass%20Bottles.JPG"
         },
         {
             "name": "marmalade, jam and canned goods",
             "name_de": "Marmeladenund Gläser",
-            "BIN_Colour": "marmeladenund gläser",
-            "phone": "Please use the marmeladenund gläser bin to dispose this waste!",
+            "bin_colour": "brown",
+            "phone": "Please use the brown bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Glass%20Bottles.JPG"
         },
         {
             "name": "Mirrors",
             "name_de": "Spiegel",
-            "BIN_Colour": "spiegel",
-            "phone": "Please use the spiegel bin to dispose this waste!",
+            "bin_colour": "brown",
+            "phone": "Please use the brown bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Buckets",
             "name_de": "Eimer",
-            "BIN_Colour": "eimer",
-            "phone": "Please use the eimer bin to dispose this waste!",
+            "bin_colour": "brown",
+            "phone": "Please use the brown bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Porcelain",
             "name_de": "Porzellan",
-            "BIN_Colour": "porzellan",
-            "phone": "Please use the porzellan bin to dispose this waste!",
+            "bin_colour": "brown",
+            "phone": "Please use the brown bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Porcelain.jpg"
         },
         {
             "name": "Pots",
             "name_de": "Töpfe",
-            "BIN_Colour": "töpfe",
-            "phone": "Please use the töpfe bin to dispose this waste!",
+            "bin_colour": "brown",
+            "phone": "Please use the brown bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Pots.jpg"
         },
         {
             "name": "Pans",
             "name_de": "Pfannen",
-            "BIN_Colour": "pfannen",
-            "phone": "Please use the pfannen bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Pollutants",
             "name_de": "Schadstoffe",
-            "BIN_Colour": "schadstoffe",
-            "phone": "Please use the schadstoffe bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Construction debris/leftovers",
             "name_de": "Bauschutt",
-            "BIN_Colour": "bauschutt",
-            "phone": "Please use the bauschutt bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Printer cartridges",
             "name_de": "Druckerpatronen",
-            "BIN_Colour": "druckerpatronen",
-            "phone": "Please use the druckerpatronen bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "not used oil/waste oil",
             "name_de": "Altöl",
-            "BIN_Colour": "altöl",
-            "phone": "Please use the altöl bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "House hold chemicals",
             "name_de": "Haushaltschemikalien",
-            "BIN_Colour": "haushaltschemikalien",
-            "phone": "Please use the haushaltschemikalien bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Pink%20Bin/House_hold%20chemicals.jpg"
         },
         {
             "name": "Car care Products",
             "name_de": "Autopflegemittel",
-            "BIN_Colour": "autopflegemittel",
-            "phone": "Please use the autopflegemittel bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Pink%20Bin/Car-Care-Products.jpg"
         },
         {
             "name": "plant protection products",
             "name_de": "Pflanzenschutzmittel",
-            "BIN_Colour": "pflanzenschutzmittel",
-            "phone": "Please use the pflanzenschutzmittel bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Pink%20Bin/plant_protection_products.jpg"
         },
         {
             "name": "spray cans without green dots",
             "name_de": "Spraydosen ohne “Grünen Punkt”",
-            "BIN_Colour": "spraydosen ohne “grünen punkt”",
-            "phone": "Please use the spraydosen ohne “grünen punkt” bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Pink%20Bin/spray_cans_without_greendots.jpg"
         },
         {
             "name": "Flouroscent lamps",
             "name_de": "Leuchtstoffröhren",
-            "BIN_Colour": "leuchtstoffröhren",
-            "phone": "Please use the leuchtstoffröhren bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Pink%20Bin/FLUORESCENT_tubes.jpg"
         },
         {
             "name": "Energy saving lights/lamps",
             "name_de": "Energiesparlampen",
-            "BIN_Colour": "energiesparlampen",
-            "phone": "Please use the energiesparlampen bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Pink%20Bin/FLUORESCENT_tubes.jpg"
         },
         {
             "name": "Old paints",
             "name_de": "Altfarben",
-            "BIN_Colour": "altfarben",
-            "phone": "Please use the altfarben bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Pink%20Bin/old_paints.jpg"
         },
         {
             "name": "old coatings (liquid)",
             "name_de": "Altlacke (flüssig)",
-            "BIN_Colour": "altlacke (flüssig)",
-            "phone": "Please use the altlacke (flüssig) bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Solvents",
             "name_de": " Lösemittel",
-            "BIN_Colour": " lösemittel",
-            "phone": "Please use the  lösemittel bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Acids",
             "name_de": "Säuren",
-            "BIN_Colour": "säuren",
-            "phone": "Please use the säuren bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Photochemicals",
             "name_de": "Fotochemikalien",
-            "BIN_Colour": "fotochemikalien",
-            "phone": "Please use the fotochemikalien bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "alkalis",
             "name_de": "Laugen",
-            "BIN_Colour": "laugen",
-            "phone": "Please use the laugen bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Oil-bearing waste (no used oil)",
             "name_de": "Ölhaltige Abfälle (kein Altöl)",
-            "BIN_Colour": "ölhaltige abfälle (kein altöl)",
-            "phone": "Please use the ölhaltige abfälle (kein altöl) bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Air freshener",
             "name_de": "Lufterfrischer",
-            "BIN_Colour": "lufterfrischer",
-            "phone": "Please use the lufterfrischer bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Ammonia",
             "name_de": "Ammoniak",
-            "BIN_Colour": "ammoniak",
-            "phone": "Please use the ammoniak bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Bleach",
             "name_de": "Bleichen",
-            "BIN_Colour": "bleichen",
-            "phone": "Please use the bleichen bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Conditioner",
             "name_de": "Conditioner",
-            "BIN_Colour": "conditioner",
-            "phone": "Please use the conditioner bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Deodorant",
             "name_de": "Deodorant",
-            "BIN_Colour": "deodorant",
-            "phone": "Please use the deodorant bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Detergent",
             "name_de": "Waschmittel",
-            "BIN_Colour": "waschmittel",
-            "phone": "Please use the waschmittel bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Disinfectant",
             "name_de": "Desinfektionsmittel",
-            "BIN_Colour": "desinfektionsmittel",
-            "phone": "Please use the desinfektionsmittel bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Drain cleaner",
             "name_de": "Abflussreiniger",
-            "BIN_Colour": "abflussreiniger",
-            "phone": "Please use the abflussreiniger bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Hard surface cleaner",
             "name_de": "Reiniger für harte Oberflächen",
-            "BIN_Colour": "reiniger für harte oberflächen",
-            "phone": "Please use the reiniger für harte oberflächen bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Insect repellent",
             "name_de": "Insektenspray",
-            "BIN_Colour": "insektenspray",
-            "phone": "Please use the insektenspray bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Soap",
             "name_de": "Seife",
-            "BIN_Colour": "seife",
-            "phone": "Please use the seife bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Toilet rim block",
             "name_de": "WC-Felgenblock",
-            "BIN_Colour": "wc-felgenblock",
-            "phone": "Please use the wc-felgenblock bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Body wash",
             "name_de": "Duschgel",
-            "BIN_Colour": "duschgel",
-            "phone": "Please use the duschgel bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "car freshners",
             "name_de": "Auto-Lufterfrischer ",
-            "BIN_Colour": "auto-lufterfrischer ",
-            "phone": "Please use the auto-lufterfrischer  bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Auto paint glazes",
             "name_de": "Autolackierungen",
-            "BIN_Colour": "autolackierungen",
-            "phone": "Please use the autolackierungen bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "car polish and pre-wax cleaners",
             "name_de": "Autopolitur und Wachsreiniger",
-            "BIN_Colour": "autopolitur und wachsreiniger",
-            "phone": "Please use the autopolitur und wachsreiniger bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "car wax, sealants and coatings",
             "name_de": "Autowachs, Dichtstoffe und Beschichtungen",
-            "BIN_Colour": "autowachs, dichtstoffe und beschichtungen",
-            "phone": "Please use the autowachs, dichtstoffe und beschichtungen bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "swirl removers, compunds and polishes",
             "name_de": "Wirbelentferner, Compunds und Polishes",
-            "BIN_Colour": "wirbelentferner, compunds und polishes",
-            "phone": "Please use the wirbelentferner, compunds und polishes bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Pesticides",
             "name_de": "Pestizide",
-            "BIN_Colour": "pestizide",
-            "phone": "Please use the pestizide bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "insecticides",
             "name_de": "Insektizide",
-            "BIN_Colour": "insektizide",
-            "phone": "Please use the insektizide bin to dispose this waste!",
+            "bin_colour": "pink",
+            "phone": "Please use the pink bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Aluminium foil",
             "name_de": "Aluminiumfolie",
-            "BIN_Colour": "aluminiumfolie",
-            "phone": "Please use the aluminiumfolie bin to dispose this waste!",
+            "bin_colour": "yellow",
+            "phone": "Please use the yellow bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Yello%20bin/yellow%20bin/aluminum%20foil.jpg"
         },
         {
             "name": "boxes for beverages/beverage cartons",
             "name_de": "Getränkekartons",
-            "BIN_Colour": "getränkekartons",
-            "phone": "Please use the getränkekartons bin to dispose this waste!",
+            "bin_colour": "yellow",
+            "phone": "Please use the yellow bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "tin cans",
             "name_de": "Konservendosen",
-            "BIN_Colour": "konservendosen",
-            "phone": "Please use the konservendosen bin to dispose this waste!",
+            "bin_colour": "yellow",
+            "phone": "Please use the yellow bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Yello%20bin/yellow%20bin/Tin%20cans.jpg"
         },
         {
             "name": "plastic cups",
             "name_de": "Kunststoffbecher/Plastikbecher",
-            "BIN_Colour": "kunststoffbecher/plastikbecher",
-            "phone": "Please use the kunststoffbecher/plastikbecher bin to dispose this waste!",
+            "bin_colour": "yellow",
+            "phone": "Please use the yellow bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Yello%20bin/yellow%20bin/plastic%20cups.jpg"
         },
         {
             "name": "plastic bottles",
             "name_de": "Kunststoffflaschen",
-            "BIN_Colour": "kunststoffflaschen",
-            "phone": "Please use the kunststoffflaschen bin to dispose this waste!",
+            "bin_colour": "yellow",
+            "phone": "Please use the yellow bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Yello%20bin/yellow%20bin/water%20bottles.jpg"
         },
         {
             "name": "bottle caps",
             "name_de": "Kronkorken",
-            "BIN_Colour": "kronkorken",
-            "phone": "Please use the kronkorken bin to dispose this waste!",
+            "bin_colour": "yellow",
+            "phone": "Please use the yellow bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Yello%20bin/yellow%20bin/Bottle%20caps.jpg"
         },
         {
             "name": "metal packaging",
             "name_de": "Metallverpackungen",
-            "BIN_Colour": "metallverpackungen",
-            "phone": "Please use the metallverpackungen bin to dispose this waste!",
+            "bin_colour": "yellow",
+            "phone": "Please use the yellow bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Yello%20bin/yellow%20bin/metal%20packing.jpg"
         },
         {
             "name": "milk bags",
             "name_de": "Milchtüten",
-            "BIN_Colour": "milchtüten",
-            "phone": "Please use the milchtüten bin to dispose this waste!",
+            "bin_colour": "yellow",
+            "phone": "Please use the yellow bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Yello%20bin/yellow%20bin/Milk%20bags.jpg"
         },
         {
             "name": "plastic bags",
             "name_de": "Plastiktüten",
-            "BIN_Colour": "plastiktüten",
-            "phone": "Please use the plastiktüten bin to dispose this waste!",
+            "bin_colour": "yellow",
+            "phone": "Please use the yellow bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Yello%20bin/yellow%20bin/plastic%20bags.jpg"
         },
         {
             "name": "styrofoam moldings",
             "name_de": "Styroporformteile",
-            "BIN_Colour": "styroporformteile",
-            "phone": "Please use the styroporformteile bin to dispose this waste!",
+            "bin_colour": "yellow",
+            "phone": "Please use the yellow bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Yello%20bin/yellow%20bin/styroform%20moldings.jpg"
         },
         {
             "name": "caps",
             "name_de": "Verschlüsse",
-            "BIN_Colour": "verschlüsse",
-            "phone": "Please use the verschlüsse bin to dispose this waste!",
+            "bin_colour": "yellow",
+            "phone": "Please use the yellow bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
         },
         {
             "name": "Remains of flowers",
             "name_de": "Blumenreste",
-            "BIN_Colour": "blumenreste",
-            "phone": "Please use the blumenreste bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Waste%20Flowers.png"
         },
         
         {
             "name": "citrus fruits",
             "name_de": "Zitrusfrüchte",
-            "BIN_Colour": "zitrusfrüchte",
-            "phone": "Please use the zitrusfrüchte bin to dispose this waste!",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/citrus%20fruits.jpg"
         }
-]
+    ]
