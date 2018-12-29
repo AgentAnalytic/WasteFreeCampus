@@ -1,4 +1,92 @@
 [
+	
+	{
+            "name": "eggshells",
+            "name_de": "Eierschalen",
+            "BIN_Colour": "eierschalen",
+            "phone": "Please use the eierschalen bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/EggShell.jpg"
+        },
+        {
+            "name": "garden waste",
+            "name_de": "Gartenabfälle",
+            "BIN_Colour": "gartenabfälle",
+            "phone": "Please use the gartenabfälle bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/garden%20Waste.jpg"
+        },
+        {
+            "name": "vegetable scraps",
+            "name_de": "Gemüsereste",
+            "BIN_Colour": "gemüsereste",
+            "phone": "Please use the gemüsereste bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Vegetable%20Scrap.jpg"
+        },
+        {
+            "name": "hair",
+            "name_de": "Haare",
+            "BIN_Colour": "haare",
+            "phone": "Please use the haare bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/hair%20waste2.jpg"
+        },
+        {
+            "name": "coffee grounds",
+            "name_de": "Kaffeesatz",
+            "BIN_Colour": "kaffeesatz",
+            "phone": "Please use the kaffeesatz bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/coffe%20ground.jpg"
+        },
+        {
+            "name": "potato skins",
+            "name_de": "Kartoffelschalen",
+            "BIN_Colour": "kartoffelschalen",
+            "phone": "Please use the kartoffelschalen bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Potato%20Skin.jpg"
+        },
+        {
+            "name": "kitchen waste",
+            "name_de": "Küchenabfälle",
+            "BIN_Colour": "küchenabfälle",
+            "phone": "Please use the küchenabfälle bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Kitchen%20Waste.jpg"
+        },
+        {
+            "name": "nutshells",
+            "name_de": "Nussschalen",
+            "BIN_Colour": "nussschalen",
+            "phone": "Please use the nussschalen bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/nutshell.jpg"
+        },
+        {
+            "name": "fruit cups",
+            "name_de": "Obstschalen",
+            "BIN_Colour": "obstschalen",
+            "phone": "Please use the obstschalen bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Fruit%20cups.jpg"
+        },
+        {
+            "name": "tea sediment",
+            "name_de": "Teesatz",
+            "BIN_Colour": "teesatz",
+            "phone": "Please use the teesatz bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/tea%20sediment.jpg"
+        },
+        {
+            "name": "cellulose wipes",
+            "name_de": "Zellstofftücher",
+            "BIN_Colour": "zellstofftücher",
+            "phone": "Please use the zellstofftücher bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/cellulose%20wipes.jpg"
+        },
+        {
+            "name": "houseplants",
+            "name_de": "Zimmerpflanzen",
+            "BIN_Colour": "zimmerpflanzen",
+            "phone": "Please use the zimmerpflanzen bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/houseplants.jpg"
+        },
+	
+	
+	
 	{
             "name": "Sanitary Articles",
             "name_de": "Hygieneartikel",
@@ -713,90 +801,7 @@
             "phone": "Please use the blumenreste bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Waste%20Flowers.png"
         },
-        {
-            "name": "eggshells",
-            "name_de": "Eierschalen",
-            "BIN_Colour": "eierschalen",
-            "phone": "Please use the eierschalen bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/EggShell.jpg"
-        },
-        {
-            "name": "garden waste",
-            "name_de": "Gartenabfälle",
-            "BIN_Colour": "gartenabfälle",
-            "phone": "Please use the gartenabfälle bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/garden%20Waste.jpg"
-        },
-        {
-            "name": "vegetable scraps",
-            "name_de": "Gemüsereste",
-            "BIN_Colour": "gemüsereste",
-            "phone": "Please use the gemüsereste bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Vegetable%20Scrap.jpg"
-        },
-        {
-            "name": "hair",
-            "name_de": "Haare",
-            "BIN_Colour": "haare",
-            "phone": "Please use the haare bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/hair%20waste2.jpg"
-        },
-        {
-            "name": "coffee grounds",
-            "name_de": "Kaffeesatz",
-            "BIN_Colour": "kaffeesatz",
-            "phone": "Please use the kaffeesatz bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/coffe%20ground.jpg"
-        },
-        {
-            "name": "potato skins",
-            "name_de": "Kartoffelschalen",
-            "BIN_Colour": "kartoffelschalen",
-            "phone": "Please use the kartoffelschalen bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Potato%20Skin.jpg"
-        },
-        {
-            "name": "kitchen waste",
-            "name_de": "Küchenabfälle",
-            "BIN_Colour": "küchenabfälle",
-            "phone": "Please use the küchenabfälle bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Kitchen%20Waste.jpg"
-        },
-        {
-            "name": "nutshells",
-            "name_de": "Nussschalen",
-            "BIN_Colour": "nussschalen",
-            "phone": "Please use the nussschalen bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/nutshell.jpg"
-        },
-        {
-            "name": "fruit cups",
-            "name_de": "Obstschalen",
-            "BIN_Colour": "obstschalen",
-            "phone": "Please use the obstschalen bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Fruit%20cups.jpg"
-        },
-        {
-            "name": "tea sediment",
-            "name_de": "Teesatz",
-            "BIN_Colour": "teesatz",
-            "phone": "Please use the teesatz bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/tea%20sediment.jpg"
-        },
-        {
-            "name": "cellulose wipes",
-            "name_de": "Zellstofftücher",
-            "BIN_Colour": "zellstofftücher",
-            "phone": "Please use the zellstofftücher bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/cellulose%20wipes.jpg"
-        },
-        {
-            "name": "houseplants",
-            "name_de": "Zimmerpflanzen",
-            "BIN_Colour": "zimmerpflanzen",
-            "phone": "Please use the zimmerpflanzen bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/houseplants.jpg"
-        },
+        
         {
             "name": "citrus fruits",
             "name_de": "Zitrusfrüchte",
