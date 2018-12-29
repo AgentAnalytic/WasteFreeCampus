@@ -1,7 +1,7 @@
 [{
-		"name": "Tom Hardy",
-		"image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
-		"phone": "(541) 754-3010"
+		"name": "Sanitary Articles",
+		"image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Sanitary%20Articles.jpg",
+		"phone": "Please use black bin to dispose this waste!"
 	},
 	{
 		"name": "Johnny Depp",
