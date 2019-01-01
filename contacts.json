@@ -1,4 +1,151 @@
  [
+  {
+            "name": "Small Toys",
+            "name_de": "Kleines Spielzeug",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Confused%20wastes/Small%20Toys.JPG"
+        },
+        {
+            "name": "Dry Colors",
+            "name_de": "Farben (trocken)",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Dry%20Colors.jpg"
+        },
+        {
+            "name": "Dust Bags",
+            "name_de": "Staubsaugerbeutel",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Dust%20Bags.jpg"
+        },
+        {
+            "name": "Soiled Packaging",
+            "name_de": "Verschmutzte Verpackung",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Soiled%20Pizza%20Box.JPG"
+        },
+        {
+            "name": "Soiled Pizza Box",
+            "name_de": "Verschmutzte Pizzakartons",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Soiled%20Pizza%20Box.JPG"
+        },
+        {
+            "name": "Soiled Food Packaging",
+            "name_de": "Verschmutzte Esssen Verpackung",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Confused%20wastes/Soiled%20Sandwish%20Wrapper.JPG"
+        },
+        {
+            "name": "Soiled Napkins and Tissues",
+            "name_de": "Verschmutzte Servietten und Gewebe",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Soiled%20Pizza%20Box.JPG"
+        },
+        {
+            "name": "Floppy Disk",
+            "name_de": "Disketten",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Floppy%20Disk.jpg"
+        },
+        {
+            "name": "Light Bulb",
+            "name_de": "Glühlampe ",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Light%20Bulb.jpg"
+        },
+        {
+            "name": "Meat bone leftover",
+            "name_de": "Fleischreste",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Meat%20and%20Fish%20Leftovers.jpg"
+        },
+        {
+            "name": "Fish bone leftover",
+            "name_de": "Fishreste",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Meat%20and%20Fish%20Leftovers.jpg"
+        },
+        {
+            "name": "Old Medicines",
+            "name_de": "Altmedikamente",
+            "bin_colour": "black",
+            "phone": "Please use the black bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Medicines.jpg"
+        },
+        {
+            "name": "Cardboard folders",
+            "name_de": "Aktenordner aus Pappe/Wellpappe",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Cordboard%20folders.jpg"
+        },
+        {
+            "name": "brochures",
+            "name_de": "Broschüren",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Brochures.jpg"
+        },
+        {
+            "name": "books",
+            "name_de": "Bücher",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/books(1).jpg"
+        },
+        {
+            "name": "paper",
+            "name_de": "Büropapier",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Paper.JPG"
+        },
+        {
+            "name": "copy paper",
+            "name_de": "Fotokopierpapier",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Paper.JPG"
+        },
+        {
+            "name": "carton",
+            "name_de": "Kartons",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Carton.JPG"
+        },
+        {
+            "name": "leaflets",
+            "name_de": "Prospekte",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Leaflets.jpg"
+        },
+        {
+            "name": "paper bags (clean)",
+            "name_de": "saubere Papiertüten",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/paper%20bags.jpg"
+        },
+        {
+            "name": "newspapers",
+            "name_de": "Zeitungen",
+            "bin_colour": "blue",
+            "phone": "Please use the blue bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/newspapers.jpeg"
+        },
         {
             "name": "Sanitary Articles",
             "name_de": "Hygieneartikel",
@@ -153,153 +300,7 @@
             "phone": "Please use the black bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Table%20ware.jpg"
         },
-        {
-            "name": "Small Toys",
-            "name_de": "Kleines Spielzeug",
-            "bin_colour": "black",
-            "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Confused%20wastes/Small%20Toys.JPG"
-        },
-        {
-            "name": "Dry Colors",
-            "name_de": "Farben (trocken)",
-            "bin_colour": "black",
-            "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Dry%20Colors.jpg"
-        },
-        {
-            "name": "Dust Bags",
-            "name_de": "Staubsaugerbeutel",
-            "bin_colour": "black",
-            "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Dust%20Bags.jpg"
-        },
-        {
-            "name": "Soiled Packaging",
-            "name_de": "Verschmutzte Verpackung",
-            "bin_colour": "black",
-            "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Soiled%20Pizza%20Box.JPG"
-        },
-        {
-            "name": "Soiled Pizza Box",
-            "name_de": "Verschmutzte Pizzakartons",
-            "bin_colour": "black",
-            "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Soiled%20Pizza%20Box.JPG"
-        },
-        {
-            "name": "Soiled Food Packaging",
-            "name_de": "Verschmutzte Esssen Verpackung",
-            "bin_colour": "black",
-            "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Confused%20wastes/Soiled%20Sandwish%20Wrapper.JPG"
-        },
-        {
-            "name": "Soiled Napkins and Tissues",
-            "name_de": "Verschmutzte Servietten und Gewebe",
-            "bin_colour": "black",
-            "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Soiled%20Pizza%20Box.JPG"
-        },
-        {
-            "name": "Floppy Disk",
-            "name_de": "Disketten",
-            "bin_colour": "black",
-            "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Floppy%20Disk.jpg"
-        },
-        {
-            "name": "Light Bulb",
-            "name_de": "Glühlampe ",
-            "bin_colour": "black",
-            "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Light%20Bulb.jpg"
-        },
-        {
-            "name": "Meat bone leftover",
-            "name_de": "Fleischreste",
-            "bin_colour": "black",
-            "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Meat%20and%20Fish%20Leftovers.jpg"
-        },
-        {
-            "name": "Fish bone leftover",
-            "name_de": "Fishreste",
-            "bin_colour": "black",
-            "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Meat%20and%20Fish%20Leftovers.jpg"
-        },
-        {
-            "name": "Old Medicines",
-            "name_de": "Altmedikamente",
-            "bin_colour": "black",
-            "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Black%20Bin/Kamp%20Lintfort/Medicines.jpg"
-        },
-        {
-            "name": "Cardboard folders",
-            "name_de": "Aktenordner aus Pappe/Wellpappe",
-            "bin_colour": "blue",
-            "phone": "Please use the blue bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Cordboard%20folders.jpg"
-        },
-        {
-            "name": "brochures",
-            "name_de": "Broschüren",
-            "bin_colour": "blue",
-            "phone": "Please use the blue bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Brochures.jpg"
-        },
-        {
-            "name": "books",
-            "name_de": "Bücher",
-            "bin_colour": "blue",
-            "phone": "Please use the blue bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/books(1).jpg"
-        },
-        {
-            "name": "paper",
-            "name_de": "Büropapier",
-            "bin_colour": "blue",
-            "phone": "Please use the blue bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Paper.JPG"
-        },
-        {
-            "name": "copy paper",
-            "name_de": "Fotokopierpapier",
-            "bin_colour": "blue",
-            "phone": "Please use the blue bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Paper.JPG"
-        },
-        {
-            "name": "carton",
-            "name_de": "Kartons",
-            "bin_colour": "blue",
-            "phone": "Please use the blue bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Confused%20Waste%20Pictures/Carton.JPG"
-        },
-        {
-            "name": "leaflets",
-            "name_de": "Prospekte",
-            "bin_colour": "blue",
-            "phone": "Please use the blue bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Leaflets.jpg"
-        },
-        {
-            "name": "paper bags (clean)",
-            "name_de": "saubere Papiertüten",
-            "bin_colour": "blue",
-            "phone": "Please use the blue bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/paper%20bags.jpg"
-        },
-        {
-            "name": "newspapers",
-            "name_de": "Zeitungen",
-            "bin_colour": "blue",
-            "phone": "Please use the blue bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/newspapers.jpeg"
-        },
+        
         {
             "name": "journals",
             "name_de": "Zeitschriften",
