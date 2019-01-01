@@ -1,94 +1,5 @@
  [
-        
-	 {
-            "name": "eggshells",
-            "name_de": "Eierschalen",
-            "bin_colour": "green",
-            "phone": "Please use the green bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/EggShell.jpg"
-        },
         {
-            "name": "garden waste",
-            "name_de": "Gartenabfälle",
-            "bin_colour": "green",
-            "phone": "Please use the green bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/garden%20Waste.jpg"
-        },
-        {
-            "name": "vegetable scraps",
-            "name_de": "Gemüsereste",
-            "bin_colour": "green",
-            "phone": "Please use the green bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Vegetable%20Scrap.jpg"
-        },
-        {
-            "name": "hair",
-            "name_de": "Haare",
-            "bin_colour": "green",
-            "phone": "Please use the green bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/hair%20waste2.jpg"
-        },
-        {
-            "name": "coffee grounds",
-            "name_de": "Kaffeesatz",
-            "bin_colour": "green",
-            "phone": "Please use the green bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/coffe%20ground.jpg"
-        },
-        {
-            "name": "potato skins",
-            "name_de": "Kartoffelschalen",
-            "bin_colour": "green",
-            "phone": "Please use the green bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Potato%20Skin.jpg"
-        },
-        {
-            "name": "kitchen waste",
-            "name_de": "Küchenabfälle",
-            "bin_colour": "green",
-            "phone": "Please use the green bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Kitchen%20Waste.jpg"
-        },
-        {
-            "name": "nutshells",
-            "name_de": "Nussschalen",
-            "bin_colour": "green",
-            "phone": "Please use the green bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/nutshell.jpg"
-        },
-        {
-            "name": "fruit cups",
-            "name_de": "Obstschalen",
-            "bin_colour": "green",
-            "phone": "Please use the green bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Fruit%20cups.jpg"
-        },
-        {
-            "name": "tea sediment",
-            "name_de": "Teesatz",
-            "bin_colour": "green",
-            "phone": "Please use the green bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/tea%20sediment.jpg"
-        },
-        {
-            "name": "cellulose wipes",
-            "name_de": "Zellstofftücher",
-            "bin_colour": "green",
-            "phone": "Please use the green bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/cellulose%20wipes.jpg"
-        },
-        {
-            "name": "houseplants",
-            "name_de": "Zimmerpflanzen",
-            "bin_colour": "green",
-            "phone": "Please use the green bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/houseplants.jpg"
-        },
-	 
-	 
-	 
-	 
-	 {
             "name": "Sanitary Articles",
             "name_de": "Hygieneartikel",
             "bin_colour": "black",
@@ -226,21 +137,21 @@
             "name_de": "Weiße Kochtöpfe",
             "bin_colour": "black",
             "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/white%20ware.jpg"
         },
         {
             "name": "Cookware",
             "name_de": "Kochtöpfe",
             "bin_colour": "black",
             "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/cookware.jpg"
         },
         {
             "name": "Tableware",
             "name_de": "Tischgeschirr",
             "bin_colour": "black",
             "phone": "Please use the black bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Table%20ware.jpg"
         },
         {
             "name": "Small Toys",
@@ -331,14 +242,14 @@
             "name_de": "Aktenordner aus Pappe/Wellpappe",
             "bin_colour": "blue",
             "phone": "Please use the blue bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Cordboard%20folders.jpg"
         },
         {
             "name": "brochures",
             "name_de": "Broschüren",
             "bin_colour": "blue",
             "phone": "Please use the blue bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Brochures.jpg"
         },
         {
             "name": "books",
@@ -373,7 +284,7 @@
             "name_de": "Prospekte",
             "bin_colour": "blue",
             "phone": "Please use the blue bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Leaflets.jpg"
         },
         {
             "name": "paper bags (clean)",
@@ -429,14 +340,14 @@
             "name_de": "Spiegel",
             "bin_colour": "brown",
             "phone": "Please use the brown bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Mirror.jpg"
         },
         {
             "name": "Buckets",
             "name_de": "Eimer",
             "bin_colour": "brown",
             "phone": "Please use the brown bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Buckets.jpg"
         },
         {
             "name": "Porcelain",
@@ -457,35 +368,35 @@
             "name_de": "Pfannen",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/pans.jpg"
         },
         {
             "name": "Pollutants",
             "name_de": "Schadstoffe",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/pollutants.jpg"
         },
         {
             "name": "Construction debris/leftovers",
             "name_de": "Bauschutt",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Construction%20Debris.jpg"
         },
         {
             "name": "Printer cartridges",
             "name_de": "Druckerpatronen",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Printer%20cartridges.jpg"
         },
         {
             "name": "not used oil/waste oil",
             "name_de": "Altöl",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Waste%20oil.jpg"
         },
         {
             "name": "House hold chemicals",
@@ -541,182 +452,182 @@
             "name_de": "Altlacke (flüssig)",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Old%20coatings(Liquid).jpg"
         },
         {
             "name": "Solvents",
             "name_de": " Lösemittel",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Solvents.jpg"
         },
         {
             "name": "Acids",
             "name_de": "Säuren",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Acids.jpg"
         },
         {
             "name": "Photochemicals",
             "name_de": "Fotochemikalien",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Photochemicals.jpg"
         },
         {
             "name": "alkalis",
             "name_de": "Laugen",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/alkalis.jpg"
         },
         {
             "name": "Oil-bearing waste (no used oil)",
             "name_de": "Ölhaltige Abfälle (kein Altöl)",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Oil-bearing%20waste.jpg"
         },
         {
             "name": "Air freshener",
             "name_de": "Lufterfrischer",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Air%20fresheners.jpg"
         },
         {
             "name": "Ammonia",
             "name_de": "Ammoniak",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Ammonia.jpg"
         },
         {
             "name": "Bleach",
             "name_de": "Bleichen",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Bleach.jpg"
         },
         {
             "name": "Conditioner",
             "name_de": "Conditioner",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/conditionar.jpg"
         },
         {
             "name": "Deodorant",
             "name_de": "Deodorant",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/deodorant.jpg"
         },
         {
             "name": "Detergent",
             "name_de": "Waschmittel",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Detergent.jpg"
         },
         {
             "name": "Disinfectant",
             "name_de": "Desinfektionsmittel",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Disinfectant.jpg"
         },
         {
             "name": "Drain cleaner",
             "name_de": "Abflussreiniger",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Drain%20cleaner.jpg"
         },
         {
             "name": "Hard surface cleaner",
             "name_de": "Reiniger für harte Oberflächen",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Hard%20surface%20cleaner.jpg"
         },
         {
             "name": "Insect repellent",
             "name_de": "Insektenspray",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Insect%20repellent.jpg"
         },
         {
             "name": "Soap",
             "name_de": "Seife",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Soap.jpg"
         },
         {
             "name": "Toilet rim block",
             "name_de": "WC-Felgenblock",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Toilet%20rim%20block.jpg"
         },
         {
             "name": "Body wash",
             "name_de": "Duschgel",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/body%20wash.jpg"
         },
         {
             "name": "car freshners",
             "name_de": "Auto-Lufterfrischer ",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Car%20freshners.jpg"
         },
         {
             "name": "Auto paint glazes",
             "name_de": "Autolackierungen",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Auto%20paint%20glazes.jpg"
         },
         {
             "name": "car polish and pre-wax cleaners",
             "name_de": "Autopolitur und Wachsreiniger",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Car%20polish%20and%20pre-wax%20cleaners.jpg"
         },
         {
             "name": "car wax, sealants and coatings",
             "name_de": "Autowachs, Dichtstoffe und Beschichtungen",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Car%20polish%20and%20pre-wax%20cleaners.jpg"
         },
         {
             "name": "swirl removers, compunds and polishes",
             "name_de": "Wirbelentferner, Compunds und Polishes",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Swirl%20removers%2C%20compounds%20and%20polishes.jpg"
         },
         {
             "name": "Pesticides",
             "name_de": "Pestizide",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Pesticides.jpg"
         },
         {
             "name": "insecticides",
             "name_de": "Insektizide",
             "bin_colour": "pink",
             "phone": "Please use the pink bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/Insecticides.jpg"
         },
         {
             "name": "Aluminium foil",
@@ -730,7 +641,7 @@
             "name_de": "Getränkekartons",
             "bin_colour": "yellow",
             "phone": "Please use the yellow bin to dispose this waste!",
-            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/unknown.jpg"
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/Waste%20images%20for%20abhishek/boxes%20for%20beveragesbeverage%20cartons.jpg"
         },
         {
             "name": "tin cans",
@@ -802,7 +713,90 @@
             "phone": "Please use the green bin to dispose this waste!",
             "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Waste%20Flowers.png"
         },
-        
+        {
+            "name": "eggshells",
+            "name_de": "Eierschalen",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/EggShell.jpg"
+        },
+        {
+            "name": "garden waste",
+            "name_de": "Gartenabfälle",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/garden%20Waste.jpg"
+        },
+        {
+            "name": "vegetable scraps",
+            "name_de": "Gemüsereste",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Vegetable%20Scrap.jpg"
+        },
+        {
+            "name": "hair",
+            "name_de": "Haare",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/hair%20waste2.jpg"
+        },
+        {
+            "name": "coffee grounds",
+            "name_de": "Kaffeesatz",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/coffe%20ground.jpg"
+        },
+        {
+            "name": "potato skins",
+            "name_de": "Kartoffelschalen",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Potato%20Skin.jpg"
+        },
+        {
+            "name": "kitchen waste",
+            "name_de": "Küchenabfälle",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Kitchen%20Waste.jpg"
+        },
+        {
+            "name": "nutshells",
+            "name_de": "Nussschalen",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/nutshell.jpg"
+        },
+        {
+            "name": "fruit cups",
+            "name_de": "Obstschalen",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/Fruit%20cups.jpg"
+        },
+        {
+            "name": "tea sediment",
+            "name_de": "Teesatz",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/tea%20sediment.jpg"
+        },
+        {
+            "name": "cellulose wipes",
+            "name_de": "Zellstofftücher",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/cellulose%20wipes.jpg"
+        },
+        {
+            "name": "houseplants",
+            "name_de": "Zimmerpflanzen",
+            "bin_colour": "green",
+            "phone": "Please use the green bin to dispose this waste!",
+            "image": "https://raw.githubusercontent.com/AgentAnalytic/WasteFreeCampus/master/waste%20images/Green%20Bin/houseplants.jpg"
+        },
         {
             "name": "citrus fruits",
             "name_de": "Zitrusfrüchte",
